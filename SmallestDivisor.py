@@ -1,4 +1,5 @@
 # Program to find Smallest divisor of a number.
+
 # Taking an input from the user. 
 n=int(input("Enter an integer:"))
 
