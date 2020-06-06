@@ -1,6 +1,9 @@
+# Program to find Smallest divisor of a number.
 # Taking an input from the user. 
 n=int(input("Enter an integer:"))
+
 a=[]
+
 for i in range(2,n+1):
     if(n%i==0):
         a.append(i)
