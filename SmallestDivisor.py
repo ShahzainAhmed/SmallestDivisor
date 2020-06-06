@@ -1,3 +1,4 @@
+# Taking an input from the user. 
 n=int(input("Enter an integer:"))
 a=[]
 for i in range(2,n+1):
